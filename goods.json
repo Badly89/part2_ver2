@@ -1,0 +1,26 @@
+{
+    "123250": {
+        "name": "Арбуз",
+        "cost": 30,
+        "description": "Сочный вкусный арбуз",
+        "image": "img/watermelon.png"
+    },
+    "123201": {
+        "name": "Абрикос",
+        "cost": 70,
+        "description": "Вкусные абрикосы, спелые и сладкие",
+        "image": "img/apricot.png"
+    },
+    "123210": {
+        "name": "Лайм",
+        "cost": 100,
+        "description": "Экзотические фрукты у нас на прилавке",
+        "image": "img/lime.png"
+    },
+    "123220": {
+        "name": "Груша",
+        "cost": 90,
+        "description": "Полезные груши, для вас и вашей семьи",
+        "image": "img/pear.png"
+    }
+}

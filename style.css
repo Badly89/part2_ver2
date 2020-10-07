@@ -1,0 +1,43 @@
+.single {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+    text-align: center;
+
+}
+
+.img {
+    width: 70px;
+    height: 100px;
+}
+
+.single button {
+    display: block;
+    margin: 20px auto;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.basket {
+    justify-content: center;
+    align-items: center;
+}
+
+.basket-single {
+    float: left;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    text-align: center;
+}
+
+.basket-single button {
+    display: block;
+    margin: 20px auto;
+}
